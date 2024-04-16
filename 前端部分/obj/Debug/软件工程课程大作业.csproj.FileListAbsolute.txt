@@ -11,3 +11,16 @@ C:\Users\nyr\Desktop\软件工程课程大作业\软件工程课程大作业\obj
 C:\Users\nyr\Desktop\软件工程课程大作业\软件工程课程大作业\obj\Debug\软件工程课程大作业.Form2.resources
 C:\Users\nyr\Desktop\软件工程课程大作业\软件工程课程大作业\obj\Debug\软件工程课程大作业.Form3.resources
 C:\Users\nyr\Desktop\软件工程课程大作业\软件工程课程大作业\obj\Debug\软件工程课程大作业.Form4.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\bin\Debug\软件工程课程大作业.exe.config
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\bin\Debug\软件工程课程大作业.exe
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\bin\Debug\软件工程课程大作业.pdb
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.csproj.AssemblyReference.cache
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.Form1.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.Form2.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.Form3.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.Form4.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.Properties.Resources.resources
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.csproj.GenerateResource.cache
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.csproj.CoreCompileInputs.cache
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.exe
+C:\Users\17376\Desktop\软件工程课程大作业\前端部分\obj\Debug\软件工程课程大作业.pdb
