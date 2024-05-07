@@ -17,7 +17,7 @@ namespace 软件工程课程大作业
         {
             InitializeComponent();
         }
-        static string mystr = "Data Source=.;Initial Catalog=地质信息及抗震设防建议;Integrated Security=True";
+        static string mystr = "Data Source=.;Initial Catalog=地质信息及建筑设计建议;Integrated Security=True";
         SqlConnection myconn = new SqlConnection(mystr);
 
         private void button1_Click(object sender, EventArgs e)
