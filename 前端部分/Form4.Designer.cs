@@ -62,6 +62,7 @@ namespace 软件工程课程大作业
             this.button1.TabIndex = 2;
             this.button1.Text = "提交";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 

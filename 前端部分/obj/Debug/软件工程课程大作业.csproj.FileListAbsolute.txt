@@ -53,3 +53,8 @@ C:\Users\nyr\Desktop\前端部分\obj\Debug\软件工程课程大作业.csproj.R
 C:\Users\nyr\Desktop\前端部分\obj\Debug\软件工程课程大作业.Form6.resources
 C:\Users\nyr\Desktop\前端部分\bin\Debug\Interop.WMPLib.dll
 C:\Users\nyr\Desktop\前端部分\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nyr\Desktop\前端部分\obj\Debug\软件工程课程大作业.Form7.resources
+C:\Users\nyr\Desktop\前端部分\bin\Debug\Python.Runtime.dll
+C:\Users\nyr\Desktop\前端部分\bin\Debug\Python.Runtime.pdb
+C:\Users\nyr\Desktop\前端部分\bin\Debug\Python.Runtime.xml
+C:\Users\nyr\Desktop\前端部分\obj\Debug\软件工程课程大作业.Form8.resources

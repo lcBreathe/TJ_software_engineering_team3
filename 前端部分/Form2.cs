@@ -35,5 +35,33 @@ namespace 软件工程课程大作业
         {
             System.Environment.Exit(0);
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (用户信息.snum[0] != '1')
+            {
+                MessageBox.Show("你无权访问该项");
+            }
+            else
+            {
+                Form7 f7 = new Form7();
+                f7.Show();
+                this.Hide();
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if (用户信息.snum[0] != '0')
+            {
+                MessageBox.Show("你无权访问该项");
+            }
+            else
+            {
+                Form8 f8 = new Form8();
+                f8.Show();
+                this.Hide();
+            }
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace 软件工程课程大作业
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form5());
+            Application.Run(new Form1());
         }
     }
 }
