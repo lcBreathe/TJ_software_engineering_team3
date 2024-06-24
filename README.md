@@ -7,9 +7,9 @@ Creat time: 2024/3/27\
 本软件的“震后建筑物三维重建”功能使用了英伟达开源软件Instant-NGP，该软件基于英伟达显卡的深度学习功能实现，因此本功能要求用户使用英伟达显卡才能实现建模功能。\
 本项目自带的Instant-NGP版本适用于30系和40系显卡，若您的电脑不属于该系列显卡，请点击下列链接下载对应版本Instant-NGP并按步骤替换：\
 30系和40系显卡：\
-https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-RTX-3000-and-4000.zip\
+https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-RTX-3000-and-4000.zip \
 20系显卡：\
-https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-RTX-2000.zip\
+https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-RTX-2000.zip \
 10系显卡:\
 https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-GTX-1000.zip\
 \
