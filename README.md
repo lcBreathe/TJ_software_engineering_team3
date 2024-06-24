@@ -2,7 +2,7 @@ For TJU software engineering work by team3.\
 Team member： Zhang Xiang,Haowen Zhang,Shenghan Cheng,Yiran Nie.\
 Creat time: 2024/3/27
 
-# 软件使用说明：
+# 软件使用前置条件：
 ## 1
 本软件的`“震后建筑物三维重建”`功能使用了英伟达开源软件`Instant-NGP`，该软件基于英伟达显卡的深度学习功能实现，因此本功能要求用户使用英伟达显卡才能实现建模功能。\
 本项目自带的Instant-NGP版本适用于30系和40系显卡，若您的电脑不属于该系列显卡，请点击下列链接下载对应版本Instant-NGP并按步骤替换：\
@@ -33,3 +33,5 @@ json、pandas、pyecharts、requests、csv、bs4、os、argparse、cv2、numpy�
 ## 4
 本软件需要搭配数据库使用，请先将`“数据库文件”`文件夹中的数据库`earthquake.mdf`以及`earthquake_log.mdf`附加至您的数据库管理平台上，并将每一页form中的`sqlConnection`语句替换为您的数据库连接语句，即可正常使用。\
 在该数据库中，具有`管理员权限`的用户名为`admin`，密码为`123456`。
+
+其余软件操作使用说明，见`“软件使用说明”`文档
