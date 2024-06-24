@@ -29,3 +29,7 @@ https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-f
 ## 3
 本软件在使用时利用了诸多`python脚本`，运行之前需要确保已配置下列python包：\
 json、pandas、pyecharts、requests、csv、bs4、os、argparse、cv2、numpy、math、glob、sys、shutil等
+
+## 4
+本软件需要搭配数据库使用，请先将`“数据库文件”`文件夹中的数据库`earthquake.mdf`以及`earthquake_log.mdf`附加至您的数据库管理平台上，并将每一页form中的`sqlConnection`语句替换为您的数据库连接语句，即可正常使用。\
+在该数据库中，具有`管理员权限`的用户名为`admin`，密码为`123456`。
