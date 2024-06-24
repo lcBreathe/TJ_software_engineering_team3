@@ -21,7 +21,7 @@ https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-f
  ![image](https://github.com/lcBreathe/team3_work/assets/165003424/2d70032e-c631-49ad-803e-08a56171f59c)
 \
 其余有关Instant-NGP内容，请查阅Instant-NGP官方GitHub网页：\
-NVlabs/instant-ngp: Instant neural graphics primitives: lightning fast NeRF and more (github.com)
+[NVlabs/instant-ngp: Instant neural graphics primitives: lightning fast NeRF and more (github.com)](https://github.com/NVlabs/instant-ngp)
 
 ## 2
 本软件的`“全国地震数据可视化功能”`基于Chromium 控件实现，但由于该控件所需的包CefSharp.WinForms文件体积超过100Mb，无法上传github，因此github里的项目文件不包含该包，请使用软件前在vs中依次点击“工具”-“NuGet包管理器”-“管理解决方案的NuGet程序包”，搜索安装`CefSharp.WinForms`。
