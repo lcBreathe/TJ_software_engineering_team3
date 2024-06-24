@@ -16,9 +16,9 @@ https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-f
 若电脑显卡品牌不是英伟达，则无法使用Instant-NGP以及本软件的“震后建筑物三维重建”功能。\
 \
 下载完成后，请解压到“项目文件”文件夹中，并替换Instant-NGP文件夹，如图所示：\
- ![image](https://github.com/lcBreathe/team3_work/assets/165003424/cf33bd2a-a618-4b9c-be51-c8c4774dd7ca)
+ ![image](https://github.com/lcBreathe/team3_work/assets/165003424/cf33bd2a-a618-4b9c-be51-c8c4774dd7ca) \
 打开Instant-NGP文件夹后，内容应和如图所示一样。\
- ![image](https://github.com/lcBreathe/team3_work/assets/165003424/2d70032e-c631-49ad-803e-08a56171f59c)
+ ![image](https://github.com/lcBreathe/team3_work/assets/165003424/2d70032e-c631-49ad-803e-08a56171f59c) \
 \
 其余有关Instant-NGP内容，请查阅Instant-NGP官方GitHub网页：\
 [NVlabs/instant-ngp: Instant neural graphics primitives: lightning fast NeRF and more (github.com)](https://github.com/NVlabs/instant-ngp)
