@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77C84235-71FB-40FF-8BCC-8A6733A57E4D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DatabaseProject</RootNamespace>
+    <AssemblyName>DatabaseProject</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="control.Designer.cs">
+      <DependentUpon>control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature1.Designer.cs">
+      <DependentUpon>Feature1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature2.Designer.cs">
+      <DependentUpon>Feature2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature2.1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature2.1.Designer.cs">
+      <DependentUpon>Feature2.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature2.2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature2.2.Designer.cs">
+      <DependentUpon>Feature2.2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="creat_new_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creat_new_users.Designer.cs">
+      <DependentUpon>creat_new_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature4.Designer.cs">
+      <DependentUpon>Feature4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature4map1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature4map1.Designer.cs">
+      <DependentUpon>Feature4map1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature4map2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature4map2.Designer.cs">
+      <DependentUpon>Feature4map2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator.Designer.cs">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="retrieve_password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="retrieve_password.Designer.cs">
+      <DependentUpon>retrieve_password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feature2.3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature2.3.Designer.cs">
+      <DependentUpon>Feature2.3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginform.Designer.cs">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Feature3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feature3.Designer.cs">
+      <DependentUpon>Feature3.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="control.resx">
+      <DependentUpon>control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature1.resx">
+      <DependentUpon>Feature1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature2.resx">
+      <DependentUpon>Feature2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature2.1.resx">
+      <DependentUpon>Feature2.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature2.2.resx">
+      <DependentUpon>Feature2.2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creat_new_users.resx">
+      <DependentUpon>creat_new_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature4.resx">
+      <DependentUpon>Feature4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature4map1.resx">
+      <DependentUpon>Feature4map1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature4map2.resx">
+      <DependentUpon>Feature4map2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator.resx">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="retrieve_password.resx">
+      <DependentUpon>retrieve_password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature2.3.resx">
+      <DependentUpon>Feature2.3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginform.resx">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feature3.resx">
+      <DependentUpon>Feature3.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\金门大桥.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="地震精灵.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="导出.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="建模图片1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="建模图片2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="数据.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="同济logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

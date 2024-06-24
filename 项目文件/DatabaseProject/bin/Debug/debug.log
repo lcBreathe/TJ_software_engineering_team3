@@ -1,0 +1,161 @@
+[0619/025143.190:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025143.205:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025244.334:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025244.338:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025259.899:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025259.903:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025315.050:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025315.054:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025405.447:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025405.452:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025420.397:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025420.402:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025433.902:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025433.907:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025446.390:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025446.396:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/025457.903:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/025457.907:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/030138.089:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/030138.107:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/030205.417:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/030205.421:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/030220.441:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/030220.446:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/031318.131:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/031318.136:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/032010.411:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/032010.416:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/034024.393:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/034024.397:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/034043.216:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/034043.222:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/034345.632:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/034345.637:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/034553.598:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/034553.603:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/035532.676:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/035532.681:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/041840.346:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/041840.350:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/042226.160:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/042226.165:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/042251.346:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/042251.350:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/044117.606:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/044117.611:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/044602.620:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/044602.624:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/045225.088:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/045225.092:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/045236.958:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/045236.962:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/045245.833:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-CF74C11F67FC9ECF41AF5A8E7974D22B will be ignored
+[0619/045245.844:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-904923E4E90281DA29E436F5300965C1 will be ignored
+[0619/050255.792:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050255.797:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050357.483:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050357.488:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050357.959:ERROR:interface_endpoint_client.cc(722)] Message 2 rejected by interface blink.mojom.Widget
+[0619/050458.134:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050458.140:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050542.592:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050542.596:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050547.379:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050547.383:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050802.277:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050802.281:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/050925.336:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/050925.340:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051052.979:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051052.984:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051101.512:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051101.516:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051110.870:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051110.875:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051123.002:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051123.008:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051132.308:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051132.313:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051139.874:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051139.880:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/051209.630:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/051209.634:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/071341.736:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/071341.761:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/072816.746:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/072816.752:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/084400.699:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/084400.719:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/084946.684:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/084946.689:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/084958.144:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-220F4002DA0A746E3767391CC19C5016 will be ignored
+[0619/085741.200:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/085741.205:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/090705.507:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/090705.530:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/190916.673:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0619/190916.697:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0619/190921.707:INFO:CONSOLE(21)] "Uncaught ReferenceError: echarts is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/1.html (21)
+[0619/190921.707:INFO:CONSOLE(21)] "Uncaught ReferenceError: echarts is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/2.html (21)
+[0619/190921.708:INFO:CONSOLE(284)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/2.html (284)
+[0619/190921.708:INFO:CONSOLE(284)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/1.html (284)
+[0619/190930.396:INFO:CONSOLE(21)] "Uncaught ReferenceError: echarts is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/1.html (21)
+[0619/190930.397:INFO:CONSOLE(284)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/1.html (284)
+[0619/190932.422:INFO:CONSOLE(21)] "Uncaught ReferenceError: echarts is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/2.html (21)
+[0619/190932.422:INFO:CONSOLE(284)] "Uncaught ReferenceError: $ is not defined", source: file:///C:/Users/17376/Desktop/Earthquake_spirit/2.html (284)
+[0621/194143.002:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/194143.026:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/194144.007:ERROR:interface_endpoint_client.cc(722)] Message 7 rejected by interface blink.mojom.WidgetHost
+[0621/194152.049:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-ADE5D1477633B9DA8FF590D3F0C8E43E will be ignored
+[0621/194731.558:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/194731.577:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/194732.233:ERROR:interface_endpoint_client.cc(722)] Message 6 rejected by interface blink.mojom.WidgetHost
+[0621/194732.233:ERROR:interface_endpoint_client.cc(722)] Message 7 rejected by interface blink.mojom.WidgetHost
+[0621/194741.446:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-6A680DE3CA1EBF2DCD5C1742D1EF33DA will be ignored
+[0621/195244.098:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/195244.117:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/195257.998:ERROR:observer_list.h(281)] Check failed: observers_.empty(). 
+For observer stack traces, build with `dcheck_always_on=true`.
+[0621/195433.857:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/195433.862:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/195607.427:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/195607.457:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/195608.854:INFO:CONSOLE(1)] "@babel/polyfill is loaded more than once on this page. This is probably not desirable/intended and may have consequences if different versions of the polyfills are applied sequentially. If you do need to load the polyfill more than once, use @babel/polyfill/noConflict instead to bypass the warning.", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195608.861:INFO:CONSOLE(307)] "注册打点全局自定义属性", source: https://www.icourse163.org/ (307)
+[0621/195608.978:INFO:CONSOLE(6)] "jst template overwrited with key jst-edu-ui-loading", source: https://mc.stu.126.net/pub/s/core_7350d52869a084ccbb59b25d8d3a5c73.js (6)
+[0621/195608.978:INFO:CONSOLE(6)] "jst template overwrited with key jst-edu-ui-tips", source: https://mc.stu.126.net/pub/s/core_7350d52869a084ccbb59b25d8d3a5c73.js (6)
+[0621/195609.033:INFO:CONSOLE(552)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.icourse163.org/ (552)
+[0621/195609.147:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.icourse163.org/ (0)
+[0621/195609.164:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/runtime.464af411.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/reactBase~1f20a385.da452c2e.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/reduxBase~bb0ee5db.01c359a2.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/axiosBase~e4173fa2.66d50cf7.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/vendors~253ae210.52046e5e.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/vendors~7d359b94.e59c00a8.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.165:INFO:CONSOLE(1)] "//mc.stu.126.net/rc/main/assets/vendors~678f84af.bf1d34e8.chunk.js is existed", source: https://mc.stu.126.net/rc/bootstraps/main/bootstrap.js?t=20242106195610 (1)
+[0621/195609.197:INFO:CONSOLE(2)] "@babel/polyfill is loaded more than once on this page. This is probably not desirable/intended and may have consequences if different versions of the polyfills are applied sequentially. If you do need to load the polyfill more than once, use @babel/polyfill/noConflict instead to bypass the warning.", source: https://mc.stu.126.net/rc/main/assets/vendors~253ae210.52046e5e.chunk.js (2)
+[0621/195609.288:INFO:CONSOLE(157)] "%c true", source: https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js (157)
+[0621/195609.865:INFO:CONSOLE(1)] "carousel view", source: https://mc.stu.126.net/rc/main/assets/index-web-entry~31ecd969.c196899d.chunk.js (1)
+[0621/195609.994:INFO:CONSOLE(7)] "script loaded:  https://shared.ydstatic.com/js/yadk/1.1.3.js", source: https://shared.ydstatic.com/js/yatdk/3.0.1/pcBanner.js (7)
+[0621/195609.994:INFO:CONSOLE(7)] "scripts load finish!", source: https://shared.ydstatic.com/js/yatdk/3.0.1/pcBanner.js (7)
+[0621/195618.835:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3A8D0CE4D28C9D72A777C5993E45831 will be ignored
+[0621/195618.847:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8F44284B45B64D132912700B632DD3DA will be ignored
+[0621/195651.561:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/195651.566:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/195745.219:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/195745.223:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/200041.014:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/200041.038:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/200345.510:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/200345.516:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/211637.065:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/211637.088:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0621/211638.063:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/211638.065:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/211638.066:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/211638.066:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/211638.066:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/211638.071:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0621/214132.160:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0621/214132.181:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
