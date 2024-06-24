@@ -34,4 +34,4 @@ json、pandas、pyecharts、requests、csv、bs4、os、argparse、cv2、numpy�
 本软件需要搭配数据库使用，请先将`“数据库文件”`文件夹中的数据库`earthquake.mdf`以及`earthquake_log.mdf`附加至您的数据库管理平台上，并将每一页form中的`sqlConnection`语句替换为您的数据库连接语句，即可正常使用。\
 在该数据库中，具有`管理员权限`的用户名为`admin`，密码为`123456`。
 
-其余软件操作使用说明，见`“软件使用说明”`文档
+# 其余软件操作使用说明，见`“软件使用说明”`文档
